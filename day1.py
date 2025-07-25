@@ -1,4 +1,4 @@
-# Simple Calculator Program
+# day1.py
 
 # Ask the user for two numbers and an operation
 num1 = (input("Enter the first number: "))
